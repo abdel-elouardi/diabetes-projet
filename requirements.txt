@@ -7,3 +7,4 @@ torch
 fastapi
 uvicorn
 streamlit
+# trigger rebuild
