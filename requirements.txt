@@ -3,8 +3,7 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-torch
+torch==2.2.2
 fastapi
 uvicorn
 streamlit
-# trigger rebuild
